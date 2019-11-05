@@ -1,0 +1,25 @@
+.card-container {
+	margin-top: 2rem;
+}
+
+.card {
+	height: 450px;
+	margin-bottom: 1rem;
+	background: #95dada;
+	border: 1px solid rgb(0, 0, 0);
+}
+
+.card:hover {
+	transform: scale(1.09);
+	transition: transform 0.4s ease-out;
+	cursor: pointer;
+}
+
+.card-image img {
+	width: auto;
+	height: 15rem;
+}
+
+.card-container:hover {
+	transform: scale(1.05);
+}
