@@ -2,7 +2,6 @@
 	"name": "monster-rolodex",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://khizaruddins.github.io/monster-rolodex",
 	"dependencies": {
 		"bootstrap": "^4.3.1",
 		"jquery": "^3.4.1",
@@ -36,6 +35,7 @@
 	"devDependencies": {
 		"@types/bootstrap": "^4.3.1",
 		"@types/jquery": "^3.3.31",
+		"firebase": "^7.2.3",
 		"gh-pages": "^2.1.1",
 		"npm-watch": "^0.6.0"
 	}

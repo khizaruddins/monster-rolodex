@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "monster-rolodex",
+    "firebase-deploy-react": "monster-rolodex"
+  }
+}
